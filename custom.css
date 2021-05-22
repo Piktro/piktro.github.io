@@ -3,7 +3,7 @@ body {
     background-color: RGBA(0, 0, 0, 0); 
     margin: 0 auto; 
     overflow: hidden; 
-} .controller.ds4{
+} .custom .controller.ds4{
     background: url(https://i.imgur.com/C864jdR.png);
     width: 794px;
     height: 639px;
